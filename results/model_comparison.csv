@@ -1,0 +1,12 @@
+method,metric,value
+Conventional PID,classification_accuracy,0.645
+Random Forest PID,classification_accuracy,0.95425
+Conventional calibration,MAE_MeV,3013.59485
+Conventional calibration,RMSE_MeV,4852.781638
+Conventional calibration,R2,-0.56977
+Linear Regression,MAE_MeV,1297.312706
+Linear Regression,RMSE_MeV,2043.534549
+Linear Regression,R2,0.721633
+Random Forest Regression,MAE_MeV,302.910707
+Random Forest Regression,RMSE_MeV,956.601037
+Random Forest Regression,R2,0.939002
