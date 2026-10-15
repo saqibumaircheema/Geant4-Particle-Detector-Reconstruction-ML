@@ -1,0 +1,5 @@
+beam_energy_MeV,conventional_PID_accuracy,random_forest_PID_accuracy
+100,0.478,0.912
+1000,0.564,0.967
+4000,0.778,0.974
+10000,0.76,0.964
