@@ -112,3 +112,9 @@ The train/test split and Random Forest models use `random_state=42`.
 ## Tools
 
 Python · pandas · NumPy · scikit-learn · Matplotlib · Geant4 simulation output
+
+---
+
+## Research portfolio
+
+This repository is part of my physics research and scientific-computing portfolio. See my [GitHub profile](https://github.com/saqibumaircheema) for related work in detector instrumentation, particle-physics analysis, simulation, statistical inference and scientific machine learning.
